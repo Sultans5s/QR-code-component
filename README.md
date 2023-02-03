@@ -19,15 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop](Solution\QR-code-frontendmentor-desktop-solution.png)
-![Mobile](Solution\QR-code-frontendmentor-Mobile-solution.png)
+![Desktop](QR-code-frontendmentor-desktop-solution.png)
+![Mobile](QR-code-frontendmentor-Mobile-solution.png)
 
 
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Sultans5s/QR-code-component.git)
+- Live Site URL: [Live site URL](https://sultans5s.github.io/QR-code-component/)
 
 ## My process
 
